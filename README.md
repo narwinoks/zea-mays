@@ -19,7 +19,7 @@ Clone the project
 
 
 ```bash
-https://github.com/narwinoks/winarno-javan-test
+https://github.com/narwinoks/zea-mays.git
 ```
 
 Go to the project directory
